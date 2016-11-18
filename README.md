@@ -1,1 +1,1 @@
-# test
+# Fichier de configuration Git
